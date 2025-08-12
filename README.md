@@ -2,7 +2,7 @@
 
 Welcome!  
 This repository contains reproducible code and datasets for data visualizations I share on social media. 
-I’m a sociologist and demographer focusing on **family demography, aging, and population health** — and I believe good data storytelling aimed at informing the public.
+I’m a sociologist and demographer focusing on **family demography, aging, and population health** — and I believe in good data storytelling aimed at informing the public.
 
 ---
 
